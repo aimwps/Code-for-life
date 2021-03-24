@@ -1,0 +1,119 @@
+while universe.exists():
+
+	# I am the type of person that builds my self-esteem on a relentless 	
+	# drive to learn and improve myself.
+		load_anti_fragility()
+		expand_knowledge_exponentially()
+		unlock_perpetual_growth()
+
+	# I am the type of person that rises before the sun.
+		put_the_first_things_first()
+		complete_my_needs_before_others()
+		hear_nature_not_traffic()
+
+	# I am the type of person that seeks understanding of my own mind.
+		for breath in meditation:
+			self_awareness += 1
+			cortisol -= 5
+			present.append(breath)
+
+	# I am the type of person that chooses long term health over short-term gratification.
+		halt_future_self_betrayal()
+		import_whole_foods()
+		junk = ["Dairy", "Refined Sugar", "Gluten"]
+		junk.append([food for food in foods_with_ingredient_list])
+		alcohol_consumption = ["With friends", "Celebrations", "Weekends"]
+		for drink in alcohol_consumption:
+			drink.never_in_excess()
+			drink.being_drunk_is_horrible()
+			drink.marcus_auerilus.return_to_sobriety(return="to yourself")
+		morning_routine.append(do_yoga({"when": "M-F", "min_duration":5, "gains":["peace", "flexibility", "energy"]})
+		
+
+	# I am the type of person that gets excited by what I find difficult.
+		get_challenge_rewards()
+		make_difficult_easier(practise_percent=100)
+		adjust_growth_by_difficulty(if_hard='exponential_growth')
+
+	# I am the type of person that welcomes failure.
+		recognise_opportunity(failure='growth')
+		learn_from_failures()
+		get_more_failures(return_payload='get_more_learning')
+	
+	# I am the type of person that preserves the earth’s natural beauty and 
+	# helps its inhabitants succeed.
+		picks_up_litter(set_frequency='weekly')
+		puts_tortoise_on_feet()
+		cares_for_animals([help.all() for animal in animals])
+
+	# I am the type of person that competes with myself.
+		for g in growth:
+			be_better_than_yesterday(g)
+			move_closer_to_goals(g)
+			remove_comparisons('others')
+		
+	# I am the type of person that does not seek recognition
+		doing_job_of_human(self_recognition='enough')
+		live_by_my_values(self_recognition='enough')
+		person_berates_me(self_recognition='enough')
+		help_another_being(self_recognition='plenty')
+	
+	# I am the type of person that creates and follows a schedule so I use 	
+	# time effectively.
+		from calendar import every_minute_counts, zero_procrastinator,
+ 		did_not_waste_a_second, no_future_guilt
+
+	# I am the type of person that treats myself as I would my best friend.
+		utilize_advice(orderby='advice_i_give_to_others')
+		feeling_down(self_talk='positive', nextaction='cheer_self')
+		if self.talk() == 'negative':
+			wasted_time += sum([1 for min in minutes_spent_negative])
+			debugger('negativity').breathe().help_self()
+		else:
+			effectiveness += 100
+
+	# I am the type of person that does not criticize, compare or complain. 
+		for words in speaking:
+			if type(words) in ['criticism', 'comparison', 'complaining']:
+				words.delete()
+
+	# I am the type of person that is authentic to my own nature and does not
+	# dilute it with the influence of others.
+		set_my_own_path = True
+		set_worries_aside = True
+		set_my_own_identity = True
+		impact_of_others_negativity = None
+
+	# I am the type of person that... Is positive to those around me offering 
+	# support, motivation and joy. 
+		lifes_short.append('Spread happiness')
+		lifes_short.append('What did misery ever get me?')
+		lifes_short.append(str(give_smile(return='smile')))
+
+	# I am the type of person who seeks fulfilment by living with purpose 
+		my_purpose[0] = 'Build meaningful relationships'
+		my_purpose[1] = 'Contribute to the whole'
+		my_purpose[2] = 'Explore curiosities'
+		if len(my_purpose) == 3:
+			fulfilment = True
+
+	# I am the type of person that listens. 
+		listen_to_others.get(learning)
+		listen_to_others.get(new_perspective)
+		
+	# I am the person who overcame my destructive habits.
+		destructive_habits = {
+			['smoking'] = False,
+			['binge drinking'] = False,
+			['negativity'] = False,
+			['procrastination'] = False,
+			['compulsive spending'] = False,
+			['alienation'] = False,
+			['dishonesty'] = False, 
+			['fragility'] = False,
+			['dependency'] = False,}
+		if True in destructive_habits.values():	
+			start_misery()
+		else:
+			limitless_potential = True
+			begin_life()
